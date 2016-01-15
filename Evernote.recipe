@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>TextWrangler.pkg.ST</string>
+	<string>Evernote.pkg.ST</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
-		<string>https://s3.amazonaws.com/BBSW-download/TextWrangler_5.0.2.dmg</string>
+		<string>https://evernote.com/download/get.php?file=EvernoteMac</string>
 		<key>NAME</key>
-		<string>TextWrangler</string>
+		<string>Evernote</string>
 	</dict>
 	<key>Process</key>
 	<array>
@@ -90,7 +90,7 @@
 						</dict>
 					</array>
 					<key>id</key>
-					<string>TextWrangler.pkg.ST</string>
+					<string>Evernote.pkg.ST</string>
 					<key>options</key>
 					<string>purge_ds_store</string>
 					<key>pkgname</key>
